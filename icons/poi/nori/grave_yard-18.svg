@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.0"
+   height="18.0"
+   viewBox="36.0 794.3622 18.0 18.0"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="grave_yard-18.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="13.111111"
+     inkscape:cx="9.563273"
+     inkscape:cy="8.5176755"
+     inkscape:window-x="68"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     id="grave_yard-18"
+     inkscape:label="grave_yard-18"
+     transform="translate(36,-36)">
+    <path
+       d="m 8.96875,831.3622 c -1.9347185,0 -3.6794342,1.2873 -4.96875,3 l 0,10 -3,0 0,3 16,0 0,-3 -3,0 0,-10 c -1.3055,-1.7453 -3.078667,-3.0054 -5.03125,-3 z m -0.96875,2 2,0 0,2 2,0 0,2 -2,0 0,6 -2,0 0,-6 -2,0 0,-2 2,0 z"
+       id="rect5633-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="accccccccaccccccccccccc"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 8.96875,-197 c -1.9347185,0.005 -3.6794342,1.28729 -4.96875,3 l 0,10 -3,0 0,3 16,0 0,-3 -3,0 0,-10 c -1.3055,-1.74534 -3.078667,-3.00538 -5.03125,-3 z M 8,-195 l 2,0 0,2 2,0 0,2 -2,0 0,6 -2,0 0,-6 -2,0 0,-2 2,0 z"
+       id="rect5633"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="accccccccaccccccccccccc"
+       style="fill:#747474;fill-opacity:1;stroke:none"
+       transform="translate(0,1028.3622)" />
+  </g>
+</svg>
