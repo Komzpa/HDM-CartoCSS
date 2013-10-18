@@ -1,5 +1,7 @@
-<svg width="12.0" height="12.0" viewBox="18.0 980.36218 12.0 12.0"><g id="hospital-12" inkscape:label="hospital-12">
-      <path d="m 21.014342,990.3622 0,-8 1.985658,0 0,3 2,0 0,-3 2.043027,0 0,8 -2.043027,0 0,-3 -2,0 0,3 z" id="path10603" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccc" style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;opacity:0.29999999999999999;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"/>
-      <path d="m 21.014342,990.3622 0,-8 1.985658,0 0,3 2,0 0,-3 2.043027,0 0,8 -2.043027,0 0,-3 -2,0 0,3 z" id="path4497-7" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccc" style="fill:#525252;fill-opacity:1;stroke:none"/>
-      <rect height="12" id="rect9633" style="opacity:0.3;fill:none;stroke:none" width="12" x="18" y="980.36218"/>
-    </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="18.0 980.36218 12.0 12.0">
+    <g>
+        <path d="m 21.014342,990.3622 0,-8 1.985658,0 0,3 2,0 0,-3 2.043027,0 0,8 -2.043027,0 0,-3 -2,0 0,3 z" fill="#fff" stroke="#fff" opacity=".3" stroke-width="2" stroke-linejoin="round"/>
+        <path d="m 21.014342,990.3622 0,-8 1.985658,0 0,3 2,0 0,-3 2.043027,0 0,8 -2.043027,0 0,-3 -2,0 0,3 z" fill="#525252"/>
+        <rect height="12" width="12" x="18" y="980.362" opacity=".3" fill="none"/>
+    </g>
+</svg>

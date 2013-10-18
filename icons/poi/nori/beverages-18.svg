@@ -1,5 +1,7 @@
-<svg width="18.0" height="18.0" viewBox="0.0 956.36218 18.0 18.0"><g id="beverages-18" inkscape:label="beverages-18">
-      <path d="m 7,959.3622 -2,1.5 8,0 -2,-1.5 z m -2,3 0,7 8,0 0,-7 z m 0,8.5 2,1.5 4,0 2,-1.5 z" id="path15578" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccc" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;opacity:0.29999999999999999;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"/>
-      <path d="m 7,959.3622 -2,1.5 8,0 -2,-1.5 z m -2,3 0,7 8,0 0,-7 z m 0,8.5 2,1.5 4,0 2,-1.5 z" id="rect4953" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccc" style="fill:#747474;fill-opacity:1;stroke:none"/>
-      <rect height="18" id="rect6583" rx="0.99450493" ry="0.032999195" style="opacity:0.3;fill:none;stroke:none" width="18" x="0" y="956.36218"/>
-    </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0.0 956.36218 18.0 18.0">
+    <g>
+        <path d="m 7,959.3622 -2,1.5 8,0 -2,-1.5 z m -2,3 0,7 8,0 0,-7 z m 0,8.5 2,1.5 4,0 2,-1.5 z" stroke="#fff" opacity=".3" stroke-width="2" stroke-linejoin="round" fill="none"/>
+        <path d="m 7,959.3622 -2,1.5 8,0 -2,-1.5 z m -2,3 0,7 8,0 0,-7 z m 0,8.5 2,1.5 4,0 2,-1.5 z" fill="#747474"/>
+        <rect height="18" rx=".995" ry=".033" width="18" y="956.362" opacity=".3" fill="none"/>
+    </g>
+</svg>
